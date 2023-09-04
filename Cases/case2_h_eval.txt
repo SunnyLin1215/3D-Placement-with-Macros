@@ -1,0 +1,22 @@
+
+====================================================================================
+Start to check if the placment result is legal.
+====================================================================================
+Check utilization for top die
+Done
+Check if inst is placed inside top die
+Done
+Check if inst overlaps with each other
+Done
+Check utilization for bottom die
+Done
+Check if inst is placed inside bottom die
+Done
+Check if inst overlaps with each other
+Done
+====================================================================================
+Summery
+====================================================================================
+[TopDie]  Area(used/max): 475717209/861250000 Util: 55.24 Max Util: 80
+[BottomDie] Area(used/max): 399085248/861250000 Util: 46.34 Max Util: 80
+Total score for this design is 20651165
